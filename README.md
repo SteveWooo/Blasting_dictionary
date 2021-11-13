@@ -1,2 +1,2 @@
 # Blasting_dictionary
-爆破字典
+Fork一个爆破字典项目
